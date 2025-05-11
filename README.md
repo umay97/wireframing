@@ -124,3 +124,39 @@ By visualizing how screens are structured and connected, developers can **estima
 
 📌 *Example:* Developers can plan routes and component structures for pages like “View Booking History” or “Manage Availability” based on the wireframe.
 
+## 🧠 Real-World Scenario: Wireframing Prevents Usability Issues
+
+### 📝 Scenario: Booking System Checkout Confusion
+
+During the early wireframing phase of a **booking management system**, a low-fidelity wireframe was created for the **checkout page**, showing the user flow from selecting a service to confirming a booking.
+
+🕵️‍♀️ **Identified Usability Issue:**
+While reviewing the wireframe, stakeholders and testers noticed that:
+- The **“Confirm Booking”** button was positioned below the fold (not visible without scrolling).
+- Important booking summary details (price, time, location) were not grouped together, making the flow unclear.
+- There was no visible option to **go back and edit** the booking.
+
+Had these issues gone unnoticed, users might have experienced confusion or even dropped out before completing their bookings—negatively impacting both user satisfaction and conversion rates.
+
+✅ **How It Was Resolved:**
+- The “Confirm Booking” button was moved higher and styled for visibility.
+- All key booking details were placed in a summary box near the top-right corner.
+- A clear “Edit Booking” link was added next to the summary.
+
+These updates were made directly in the wireframe before any design or development work began—saving time, avoiding rework, and improving usability.
+
+### 📈 Impact on the Final Product
+As a result, the finalized design was more intuitive. Users could:
+- Clearly see booking details at a glance.
+- Take confident actions without confusion.
+- Navigate the flow smoothly, improving the booking success rate.
+
+## ✅ Conclusion: The Role of Wireframing
+
+Wireframing is more than just drawing boxes—it’s a **strategic design tool** that:
+- Uncovers usability problems early,
+- Aligns team vision,
+- Enables fast iteration,
+- And ensures a user-centered experience.
+
+By catching potential issues before code is written, wireframing helps deliver a product that’s not only functional, but also **efficient, intuitive, and user-friendly** from day one.
