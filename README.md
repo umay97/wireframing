@@ -69,9 +69,35 @@ High-fidelity wireframes are **more detailed and polished**, often resembling th
 
 📌 *Example:* A fully labeled and styled wireframe of a booking confirmation page, showing exact button placement and user flow.
 
----
-
 ## 🧾 Identifying the Type of Wireframe Used Here
 
 > This wireframe is a **low-fidelity wireframe**, designed to focus on the **basic layout and structure** of the booking system interface. It uses simple shapes and labels to communicate where elements will go, without any design styling. This helps validate functionality and user flow early in the design process, before investing in detailed UI work.
+
+ ## 🛠️ Popular Wireframing Tools
+
+There are several tools available for creating wireframes, each offering different features for various stages of the design process. Some of the most widely used tools include:
+
+- **Figma**
+- **Sketch**
+- **Adobe XD**
+- **Balsamiq**
+- **Wireframe.cc**
+- **Draw.io**
+
+### ⭐ Figma – Recommended Tool
+
+**Figma** is a powerful, web-based design and prototyping tool that is especially popular for wireframing and UI/UX design. It enables real-time collaboration, making it ideal for teams working on shared projects.
+
+#### Key Features:
+- Drag-and-drop UI components for quick wireframe creation
+- Live collaboration with team members in real-time
+- Cloud-based (no installation needed)
+- Supports both low-fidelity and high-fidelity designs
+- Easy handoff to developers with design specs and CSS export
+
+#### Why Use Figma for Wireframing?
+Figma is beginner-friendly yet professional-grade. You can create simple wireframes quickly, iterate fast, and evolve them into full designs — all in one place. Its collaborative nature also helps streamline feedback and decision-making in team environments.
+
+📌 *Tip:* Start with Figma’s built-in wireframe kits or community templates to save time.
+
 
