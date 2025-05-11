@@ -33,3 +33,45 @@ Shows where specific elements like text, images, and videos will go.
 ### ⚙️ Functionality
 Outlines interactive elements and user actions.  
 📌 *Example:* Wireframing a “Checkout” button that triggers a payment form helps ensure that this function is visible and usable early in the design.
+
+## 🧾 Types of Wireframes
+
+Wireframes come in different levels of detail and complexity. The two most common types are:
+
+### 🪶 Low-Fidelity Wireframes
+Low-fidelity wireframes are **simple, sketch-like** representations of a user interface. They focus on **layout and structure** without any detailed design elements like color, font, or images.
+
+**Typical Characteristics:**
+- Basic shapes (boxes, lines, placeholders)
+- Black and white or grayscale
+- No real content — uses lorem ipsum or labels like "Image Here"
+- Fast to create and easy to modify
+
+**When to Use:**
+- Early stages of design
+- Brainstorming and ideation
+- Quick feedback from stakeholders
+
+📌 *Example:* A rough sketch showing where the header, navigation bar, and booking form would appear on a page.
+
+### 🎨 High-Fidelity Wireframes
+High-fidelity wireframes are **more detailed and polished**, often resembling the final product in layout and content. They include real text, fonts, colors, and sometimes interactivity.
+
+**Typical Characteristics:**
+- Realistic layout and spacing
+- Detailed UI components (buttons, form fields, icons)
+- Close to the final design
+
+**When to Use:**
+- Later stages of design
+- Developer handoff
+- Usability testing with end users
+
+📌 *Example:* A fully labeled and styled wireframe of a booking confirmation page, showing exact button placement and user flow.
+
+---
+
+## 🧾 Identifying the Type of Wireframe Used Here
+
+> This wireframe is a **low-fidelity wireframe**, designed to focus on the **basic layout and structure** of the booking system interface. It uses simple shapes and labels to communicate where elements will go, without any design styling. This helps validate functionality and user flow early in the design process, before investing in detailed UI work.
+
