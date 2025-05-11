@@ -100,4 +100,27 @@ Figma is beginner-friendly yet professional-grade. You can create simple wirefra
 
 📌 *Tip:* Start with Figma’s built-in wireframe kits or community templates to save time.
 
+## ✅ Benefits of Wireframing in Software Development
+
+Wireframing plays a crucial role in the software development lifecycle by providing a clear and structured blueprint of how a system should look and function. It acts as a bridge between the idea and the actual product, aligning both technical and non-technical stakeholders.
+
+### 🎯 1. Guides the Design Process
+Wireframes help designers and developers focus on **layout and functionality** before jumping into colors, images, and styling. This allows the team to explore and refine user flow and page structure early on.
+
+📌 *Example:* In the booking management system, a wireframe of the checkout page shows where form fields, summary details, and buttons should appear—helping ensure a logical and user-friendly flow before development starts.
+
+### 💬 2. Facilitates Communication
+Wireframes serve as a **shared visual language** between designers, developers, and stakeholders. They reduce misunderstandings and clarify expectations.
+
+📌 *Example:* A wireframe showing the booking calendar layout makes it easier for a front-end developer to implement it, while allowing stakeholders to suggest changes early—saving time and rework.
+
+### 🧪 3. Supports Early Feedback and Iteration
+Since wireframes are quick to build and modify, they support **rapid iteration** based on team or user feedback.
+
+📌 *Example:* If stakeholders suggest moving the “Cancel Booking” button to a more visible position, this can be updated in the wireframe instantly—long before any code is written.
+
+### 💡 4. Improves Development Planning
+By visualizing how screens are structured and connected, developers can **estimate tasks more accurately**, plan API integration, and prepare the necessary UI components.
+
+📌 *Example:* Developers can plan routes and component structures for pages like “View Booking History” or “Manage Availability” based on the wireframe.
 
